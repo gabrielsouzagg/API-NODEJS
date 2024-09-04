@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Martins",
+    "email": "ana.martins@example.com",
+    "senha": "nova123"
+  },
+  {
+    "id": 2,
+    "name": "Carlos Pereira",
+    "email": "carlos.pereira@example.com",
+    "senha": "novaSenha123"
+  },
+  {
+    "id": 3,
+    "name": "Mariana Costa",
+    "email": "mariana.costa@example.com",
+    "senha": "nova1234"
+  },
+  {
+    "id": 4,
+    "name": "Felipe Nunes",
+    "email": "felipe.nunes@example.com",
+    "senha": "novaS13"
+  },
+
+  {
+    "id": 5,
+    "name": "Isabela Rocha",
+    "email": "isabela.rocha@example.com",
+    "senha": "Senha123"
+  }
+]

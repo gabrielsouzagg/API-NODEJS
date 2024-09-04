@@ -1,0 +1,7 @@
+[
+    { "id": 1, "id_user": 1, "tipo": "Ensaio", "titulo": "Ensaio Científico", "curso": "Biologia", "turno": "Manhã" },
+    { "id": 2, "id_user": 2, "tipo": "Relatório", "titulo": "Relatório de Análise", "curso": "Química", "turno": "Tarde" },
+    { "id": 3, "id_user": 3, "tipo": "Estudo", "titulo": "Estudo Histórico", "curso": "Literatura", "turno": "Noite" },
+    { "id": 4, "id_user": 4, "tipo": "Investigação", "titulo": "Investigação de Campo", "curso": "Física", "turno": "Tarde" },
+    { "id": 5, "id_user": 5, "tipo": "Projeto", "titulo": "Projeto Inovador", "curso": "Astronomia", "turno": "Manhã" }
+]
